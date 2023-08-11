@@ -1,0 +1,180 @@
+body {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    background: #f8f4f4;
+    width: 1800px; 
+    
+
+}
+
+
+.sidebar {background: #DFEEFF;
+padding-top: 40px;
+padding-bottom: 40px;}
+
+.contacts-header {color:#161D2A}
+
+.main content {
+    padding-left: 88px ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    
+}
+
+.about-me { margin-bottom: 40px;}
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-left: 20px;
+    margin-bottom: 8px;
+} 
+.my-summary {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+   
+}
+.sidebarcontent {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 80px;
+}
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27x;
+    color: #161D2A ;
+    margin-bottom: 8px;
+}
+
+
+
+.tech-container {margin-bottom: 40px}
+
+.contacts-container {margin-bottom: 40px;}
+
+.contacts-item {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24x;
+    color: #161D2A
+}
+.email-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24x;
+    color: #161D2A
+}
+.ig-item { font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24x;
+    color: #161D2A
+ }
+ .contacts-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24x;
+    text-decoration-line: underline;
+    color: #2979ff
+ }
+.skills-item {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24x;
+    color: #161D2A;
+    list-style: disc;
+    
+}
+.skills-list { padding-left: 16px;}
+
+.my-profession {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+margin-bottom: 8px;
+margin-top: 8px;
+ }
+
+.content-margin {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.my-summary {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24x;
+    color: #595959; }
+
+    .main-content-title { margin-bottom: 8px;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: #000000;}
+
+        .projects { margin-bottom: 44px;
+            }
+
+            .projects-item { 
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 24x;
+                color: #000000;
+            list-style: decimal;} 
+            .project-link { 
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 24x;
+                color: #2979ff;
+                text-decoration-line: underline;
+            }
+
+            .projects-tech {
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 24x;
+                color: #000000;
+            }
+            .projects-list { padding-left: 20px;}
+            .company-position { 
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 20x;
+                color: #000000; margin-bottom: 12px;
+            margin-top: 12px; }
+                .position-blue { 
+                    color: #6d9bf5;
+                    font-weight: 700;
+                }
+
+                .company-period { font-weight: 400;
+                    font-size: 12px;
+                    line-height: 15x;
+                    color: #a8a8a8;
+                margin-bottom: 8px; }
+
+                .duty-item { font-weight: 400;
+                    font-size: 14px;
+                    line-height: 24x;
+                    color: #595959;
+                list-style: disc;
+            }
+            .duties-list { padding-left: 20px;}
+            .company-container { margin-bottom: 8px;}
